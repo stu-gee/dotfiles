@@ -20,4 +20,13 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 # Install zsh-you-should-us plugin
 git clone https://github.com/MichaelAquilina/zsh-you-should-use.git $ZSH_CUSTOM/plugins/you-should-use
 
+# Install powerlevel10k
+brew install powerlevel10k
+
+# Install zoxide
+brew install zoxide
+
+# Install eza
+brew install eza
+
 ```
